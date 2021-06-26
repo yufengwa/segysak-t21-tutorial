@@ -21,7 +21,7 @@ dependencies:
   - click
   - attrdict
   - pyshp
-  -rise
+  - rise
   - pip:
       - h5netcdf>=0.8
       - segysak
